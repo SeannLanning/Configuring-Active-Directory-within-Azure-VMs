@@ -29,11 +29,3 @@ This tutorial outlines the implementation of on-premises Active Directory within
 - Setup Remote Desktop for non-administrative users
 - Create numerous 'test' users to ensure directory is working properly
 
-
-![image](https://github.com/SeannLanning/Configuring-Active-Directory-within-Azure-VMs/assets/70045086/c832abbd-a577-4639-af2f-6f402e55d1dc)
-
-![image](https://github.com/SeannLanning/Configuring-Active-Directory-within-Azure-VMs/assets/70045086/a269d928-713e-42c3-9110-cedcab5af33b)
-
-![image](https://github.com/SeannLanning/Configuring-Active-Directory-within-Azure-VMs/assets/70045086/1545511e-6e77-48c7-9623-37c6f4ff35a9)
-
-![image](https://github.com/SeannLanning/Configuring-Active-Directory-within-Azure-VMs/assets/70045086/2947d07d-cce7-48bb-b14e-0cce4b7e5b34)
